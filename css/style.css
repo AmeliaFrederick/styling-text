@@ -31,3 +31,20 @@ figcaption {
     color: #757575;
     font-style: italic;
 }
+a {
+    color: #1a1a1a;
+    text-decoration: underline;
+}
+a:hover {
+    text-decoration: none;
+    color: #ff3530;
+}
+p.author, time {
+    font-size: .85rem;
+}
+p.author {
+    margin-bottom: 0;
+}
+figure {
+    margin: 1.25em 0;
+}
